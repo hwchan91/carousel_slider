@@ -1,4 +1,16 @@
+.slider {
+  margin-top: 100px;
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Lato', sans-serif;
+  color: #c2cad6;
+}
+
+
 .frame {
+  margin: auto;
   height: 300px;
   width: 500px;
   overflow: hidden;
@@ -68,6 +80,7 @@ img {
 
 
 .dots {
+  margin: auto;
   width: 500px;
   margin-top: 10px;
   text-align: center;
